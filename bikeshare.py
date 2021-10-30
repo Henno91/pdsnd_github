@@ -353,4 +353,6 @@ def main():
 
 
 if __name__ == "__main__":
+    print("Starting the Program")
     main()
+    print("\nThe code has finished executing.")
