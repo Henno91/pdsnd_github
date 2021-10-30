@@ -13,4 +13,4 @@ Description of the last project
 All files included
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+New changes
