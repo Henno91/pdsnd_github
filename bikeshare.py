@@ -103,6 +103,7 @@ def load_data(city, month, day):
                                      'End Station', 'User Type', 'Gender',
                                      'Birth Year'])
         except:
+            print("WARNING: Could not reindex dataframe.")
             pass
     else:
         df = pd.read_csv(CITY_DATA[city])
