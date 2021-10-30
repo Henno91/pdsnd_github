@@ -1,3 +1,5 @@
+# Adding a comment to the bikeshare.py
+# Importing all the dependencies
 import time
 import pandas as pd
 import numpy as np
