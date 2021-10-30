@@ -7,10 +7,10 @@ Include the date you created this project and README file.
 Project 3
 
 ### Description
-Describe what your project is about and what it does
+Description of the last project
 
 ### Files used
-Include the files used
+All files included
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
